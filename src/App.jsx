@@ -21,7 +21,7 @@ function App() {
       <header className="site-header">
         <a className="wordmark" href="#top" aria-label="Maya Bennett home">
           <span className="wordmark-mark">mb</span>
-          <span>Maya Bennett <small>PRIVATE TUTOR</small></span>
+          <span>Zayne <small>PRIVATE TUTOR</small></span>
         </a>
         <button
           className="menu-toggle"
@@ -124,7 +124,7 @@ function App() {
         </form>
       </section>
 
-      <footer className="site-footer"><a className="wordmark footer-wordmark" href="#top"><span className="wordmark-mark">mb</span><span>Maya Bennett <small>PRIVATE TUTOR</small></span></a><p>Good things grow with a little help.</p><span className="copyright">© 2026 MAYA BENNETT</span></footer>
+      <footer className="site-footer"><a className="wordmark footer-wordmark" href="#top"><span className="wordmark-mark">mb</span><span>Zayne <small>PRIVATE TUTOR</small></span></a><p>Good things grow with a little help.</p><span className="copyright">© 2026 ZAYNE BENNETT</span></footer>
     </main>
   )
 }
